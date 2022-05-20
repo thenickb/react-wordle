@@ -12,7 +12,7 @@ export const VALID_GUESSES = [
   'finesse',
   'finna',
   'fomo',
-  'ghoseted',
+  'ghosted',
   'hands',
   'iykyk',
   'lowkey',
